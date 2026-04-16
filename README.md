@@ -155,6 +155,8 @@ This project demonstrates a complete data science pipeline from raw data to pred
 The Logistic Regression model achieved **82.93% accuracy**, showing that even simple models can perform well with proper data preprocessing.
 
 ---
+📄 [**PDF Version:**](https://tajinder2449.github.io/titanic-survival-prediction-ml/Titanic-Colab.pdf) A PDF export of the Jupyter Notebook is included for easy viewing without needing to run the code.
+---
 
 ## 📁 Project Files
 
